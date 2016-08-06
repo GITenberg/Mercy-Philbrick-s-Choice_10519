@@ -1,0 +1,32 @@
+_repo: Mercy-Philbrick-s-Choice_10519
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jackson, Helen Hunt
+    aliases:
+    - Hunt, Helen Maria Fiske
+    - Jackson, Helen Maria Fiske Hunt
+    - Jackson, H. H. (Helen Hunt)
+    - Holm, Saxe
+    birthdate: 1830
+    deathdate: 1885
+    gutenberg_agent_id: '1030'
+    url: http://www.gutenberg.org/2009/agents/1030
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'New England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Women poets, American -- 19th century -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Mercy Philbrick's Choice
+url: http://www.gutenberg.org/ebooks/10519
