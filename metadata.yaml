@@ -1,5 +1,8 @@
 _repo: Mercy-Philbrick-s-Choice_10519
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jackson, Helen Hunt
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1030
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10519#Mercy-Philbrick-s-Choice
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
